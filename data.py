@@ -11,7 +11,7 @@ r = requests.get(url)
 
 # transform that request into a json object:
 json = r.json()
-# push
+# pushs
 events_df = pd.DataFrame(json['elements'])
 print(events_df)
 
