@@ -11,7 +11,10 @@ r = requests.get(url)
 
 # transform that request into a json object:
 json = r.json()
-# pushs
-events_df = pd.DataFrame(json['elements'])
-print(events_df)
 
+
+teams_df = pd.DataFrame(json['teams'])
+elements_df = pd.DataFrame(json['elements'])
+element_stats_df = pd.DataFrame(json['element_stats'])
+
+print(json.keys())
