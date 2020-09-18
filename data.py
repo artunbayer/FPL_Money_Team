@@ -9,5 +9,9 @@ url = 'https://fantasy.premierleague.com/api/bootstrap-static/'
 # Use the requests package to make a GET request from the API endpoint
 r = requests.get(url)
 
-# 
+# transform that request into a json object:
 json = r.json()
+
+events_df = pd.DataFrame(json['elements'])
+print(events_df)
+
