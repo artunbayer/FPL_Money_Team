@@ -1,0 +1,530 @@
+,first_name,second_name,goals_scored,assists,total_points,minutes,goals_conceded,creativity,influence,threat,bonus,bps,ict_index,clean_sheets,red_cards,yellow_cards,selected_by_percent,now_cost,element_type,position
+0,Mesut,Ãzil,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,1.2,70,MID,Midfielder
+1,Sokratis,Papastathopoulos,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.2,50,DEF,Defender
+2,David,Luiz Moreira Marinho,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.9,55,DEF,Defender
+3,Pierre-Emerick,Aubameyang,1,0,7,90,0,15.3,36.6,54.0,0,19,10.6,1,0,1,46.9,120,MID,Midfielder
+4,CÃ©dric,Soares,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.5,50,DEF,Defender
+5,Alexandre,Lacazette,1,0,7,86,0,12.7,38.6,48.0,1,29,9.9,1,0,0,4.4,85,FWD,Forward
+6,Shkodran,Mustafi,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,50,DEF,Defender
+7,Bernd,Leno,0,0,7,90,0,0.0,14.0,0.0,1,29,1.4,1,0,0,8.5,50,GK,Goalkeeper
+8,Granit,Xhaka,0,0,3,77,0,17.2,6.8,21.0,0,11,4.5,1,0,0,0.9,55,MID,Midfielder
+9,Pablo,MarÃ­,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,45,DEF,Defender
+10,HÃ©ctor,BellerÃ­n,0,0,5,90,0,26.4,9.8,4.0,0,23,4.0,1,0,1,4.7,50,DEF,Defender
+11,Emiliano,MartÃ­nez,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,4.6,45,GK,Goalkeeper
+12,Calum,Chambers,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,45,DEF,Defender
+13,Sead,Kolasinac,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.3,50,DEF,Defender
+14,Ainsley,Maitland-Niles,0,0,6,90,0,2.8,10.2,4.0,0,21,1.7,1,0,0,2.2,50,DEF,Defender
+15,Rob,Holding,0,0,6,90,0,1.2,20.6,0.0,0,28,2.2,1,0,0,1.8,45,DEF,Defender
+16,Kieran,Tierney,0,0,6,90,0,2.5,12.8,2.0,0,25,1.7,1,0,0,12.2,55,DEF,Defender
+17,Nicolas,PÃ©pÃ©,0,0,1,15,0,15.3,2.0,6.0,0,3,2.3,0,0,0,1.9,79,MID,Midfielder
+18,Lucas,Torreira,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.3,50,MID,Midfielder
+19,Joseph,Willock,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,50,MID,Midfielder
+20,Reiss,Nelson,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,55,MID,Midfielder
+21,Edward,Nketiah,0,0,1,3,0,0.0,0.0,0.0,0,3,0.0,0,0,0,1.6,60,FWD,Forward
+22,Emile,Smith Rowe,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.3,45,MID,Midfielder
+23,Bukayo,Saka,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,7.0,55,MID,Midfielder
+24,Matteo,Guendouzi,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.2,50,MID,Midfielder
+25,Gabriel Teodoro,Martinelli Silva,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,50,MID,Midfielder
+26,William,Saliba,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,3.0,45,DEF,Defender
+27,Willian,Borges Da Silva,0,3,14,74,0,38.0,38.6,38.0,2,35,11.5,1,0,0,12.6,81,MID,Midfielder
+28,Gabriel,MagalhÃ£es,1,0,15,90,0,0.3,51.8,33.0,3,37,8.5,1,0,0,6.3,50,DEF,Defender
+29,Daniel,Ceballos FernÃ¡ndez,0,0,1,12,0,1.3,5.2,4.0,0,6,1.1,0,0,0,1.9,50,MID,Midfielder
+30,Mohamed Naser,El Sayed Elneny,0,0,3,90,0,3.8,10.6,18.0,0,15,3.2,1,0,0,0.8,45,MID,Midfielder
+31,Matt,Macey,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,40,GK,Goalkeeper
+32,Tom,Heaton,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,45,GK,Goalkeeper
+33,Ahmed,El Mohamady,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.5,45,DEF,Defender
+34,Henri,Lansbury,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.3,45,MID,Midfielder
+35,Neil,Taylor,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.4,45,DEF,Defender
+36,Jed,Steer,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,5.3,40,GK,Goalkeeper
+37,Conor,Hourihane,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,60,MID,Midfielder
+38,JosÃ© Ignacio,Peleteiro Romallo,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,60,MID,Midfielder
+39,Ãrjan,Nyland,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,16.8,40,GK,Goalkeeper
+40,Bjorn,Engels,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.2,45,DEF,Defender
+41,Jack,Grealish,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,10.6,70,MID,Midfielder
+42,John,McGinn,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.6,55,MID,Midfielder
+43,Kortney,Hause,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,45,DEF,Defender
+44,Mahmoud Ahmed,Ibrahim Hassan,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,1.4,55,MID,Midfielder
+45,Tyrone,Mings,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,1.5,50,DEF,Defender
+46,Matt,Targett,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,1.0,45,DEF,Defender
+47,James,Bree,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,45,DEF,Defender
+48,Marvelous,Nakamba,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.6,45,MID,Midfielder
+49,Anwar,El Ghazi,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.2,60,MID,Midfielder
+50,Ezri,Konsa Ngoyo,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.2,45,DEF,Defender
+51,FrÃ©dÃ©ric,Guilbert,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.2,45,DEF,Defender
+52,Wesley,Moraes,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,60,FWD,Forward
+53,Mbwana,Samatta,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,60,FWD,Forward
+54,Keinan,Davis,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,15.9,45,FWD,Forward
+55,Indiana,Vassilev,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,2.3,45,FWD,Forward
+56,Douglas Luiz,Soares de Paulo,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.4,50,MID,Midfielder
+57,Matthew,Cash,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.4,50,DEF,Defender
+58,Ollie,Watkins,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,1.1,60,FWD,Forward
+59,Glenn,Murray,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.3,50,FWD,Forward
+60,Adam,Lallana,0,0,1,44,1,27.2,6.8,2.0,0,6,3.6,0,0,0,1.3,65,MID,Midfielder
+61,Dale,Stephens,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,13.7,45,MID,Midfielder
+62,Pascal,GroÃ,0,0,1,11,0,0.3,2.6,0.0,0,4,0.3,0,0,0,0.2,60,MID,Midfielder
+63,Shane,Duffy,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,45,DEF,Defender
+64,Davy,PrÃ¶pper,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,50,MID,Midfielder
+65,Aaron,Mooy,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,50,MID,Midfielder
+66,Dan,Burn,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.8,45,DEF,Defender
+67,Lewis,Dunk,0,0,1,90,3,1.2,20.4,7.0,0,16,2.9,0,0,0,8.6,50,DEF,Defender
+68,MartÃ­n,Montoya,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,45,DEF,Defender
+69,Florin,Andone,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.3,50,FWD,Forward
+70,Solomon,March,0,0,2,90,3,18.2,15.4,20.0,0,16,5.4,0,0,0,0.1,50,MID,Midfielder
+71,Adam,Webster,0,0,1,90,3,11.8,14.8,1.0,0,14,2.8,0,0,0,2.9,45,DEF,Defender
+72,JoÃ«l,Veltman,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.4,45,DEF,Defender
+73,Neal,Maupay,0,0,2,90,3,1.0,0.0,8.0,0,1,0.7,0,0,0,1.7,65,FWD,Forward
+74,Leandro,Trossard,1,0,8,90,3,27.6,40.8,11.0,1,28,7.9,0,0,0,0.5,60,MID,Midfielder
+75,Mathew,Ryan,0,0,1,90,3,0.0,11.6,0.0,0,12,1.2,0,0,0,18.7,45,GK,Goalkeeper
+76,Alireza,Jahanbakhsh,0,0,1,11,0,0.7,4.4,0.0,0,3,0.5,0,0,0,0.1,55,MID,Midfielder
+77,JosÃ©,Izquierdo,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,55,MID,Midfielder
+78,Matthew,Clarke,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,45,DEF,Defender
+79,Ben,White,0,0,1,78,3,0.8,14.2,0.0,0,16,1.5,0,0,0,1.7,45,DEF,Defender
+80,Bernardo,Fernandes da Silva Junior,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,13.6,40,DEF,Defender
+81,Yves,Bissouma,0,0,2,90,3,3.8,8.4,5.0,0,13,1.7,0,0,0,4.6,45,MID,Midfielder
+82,Tariq,Lamptey,0,1,3,90,3,27.3,33.8,20.0,0,22,8.1,0,0,1,2.5,45,DEF,Defender
+83,Aaron,Connolly,0,0,1,45,2,0.3,1.2,32.0,0,-3,3.4,0,0,0,0.5,55,FWD,Forward
+84,Steven,Alzate,0,0,2,78,3,24.0,13.4,17.0,0,14,5.4,0,0,0,0.4,45,MID,Midfielder
+85,Alexis,Mac Allister,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,55,MID,Midfielder
+86,Christian,Walton,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,1.7,40,GK,Goalkeeper
+87,Jason,Steele,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,40,GK,Goalkeeper
+88,James,Tarkowski,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,6.2,55,DEF,Defender
+89,Phil,Bardsley,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.6,45,DEF,Defender
+90,Erik,Pieters,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,1.4,45,DEF,Defender
+91,Jack,Cork,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,50,MID,Midfielder
+92,Kevin,Long,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.2,45,DEF,Defender
+93,Jay,Rodriguez,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.8,60,FWD,Forward
+94,Ashley,Barnes,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,60,FWD,Forward
+95,Ben,Mee,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.4,50,DEF,Defender
+96,Ashley,Westwood,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,1.0,55,MID,Midfielder
+97,Johann Berg,Gudmundsson,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,55,MID,Midfielder
+98,Chris,Wood,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,2.3,65,FWD,Forward
+99,Matthew,Lowton,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.2,45,DEF,Defender
+100,Matej,Vydra,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.7,50,FWD,Forward
+101,Ben,Gibson,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.3,40,DEF,Defender
+102,Robbie,Brady,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,50,MID,Midfielder
+103,Nick,Pope,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,17.0,55,GK,Goalkeeper
+104,Charlie,Taylor,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,5.0,45,DEF,Defender
+105,Josh,Brownhill,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,50,MID,Midfielder
+106,Bailey,Peacock-Farrell,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,1.5,40,GK,Goalkeeper
+107,Dwight,McNeil,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.9,60,MID,Midfielder
+108,Jimmy,Dunne,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.5,40,DEF,Defender
+109,Bobby,Thomas,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.4,40,DEF,Defender
+110,Willy,Caballero,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.4,50,GK,Goalkeeper
+111,CÃ©sar,Azpilicueta,0,0,1,5,0,0.5,0.4,2.0,0,3,0.3,0,0,0,7.6,60,DEF,Defender
+112,Olivier,Giroud,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,1.3,70,FWD,Forward
+113,Marcos,Alonso,0,0,2,90,1,3.7,17.8,2.0,0,14,2.4,0,0,0,3.6,60,DEF,Defender
+114,Jorge Luiz,Frello Filho,1,1,12,84,1,23.2,60.8,17.0,2,43,10.1,0,0,0,2.4,50,MID,Midfielder
+115,Ross,Barkley,0,0,1,29,0,11.8,4.2,7.0,0,1,2.3,0,0,0,0.3,60,MID,Midfielder
+116,Mateo,Kovacic,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,55,MID,Midfielder
+117,Antonio,RÃ¼diger,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,2.2,50,DEF,Defender
+118,Kurt,Zouma,1,0,8,90,1,0.2,51.8,17.0,0,25,6.9,0,0,0,1.1,50,DEF,Defender
+119,Emerson,Palmieri dos Santos,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.2,50,DEF,Defender
+120,Kepa,Arrizabalaga,0,0,2,90,1,0.0,10.4,0.0,0,12,1.0,0,0,0,2.3,50,GK,Goalkeeper
+121,N'Golo,KantÃ©,0,0,2,90,1,2.8,17.2,4.0,0,19,2.4,0,0,0,4.6,50,MID,Midfielder
+122,Hakim,Ziyech,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,1.9,80,MID,Midfielder
+123,Ruben,Loftus-Cheek,0,0,2,60,1,1.3,0.0,0.0,0,2,0.0,0,0,0,0.2,60,MID,Midfielder
+124,Andreas,Christensen,0,0,2,90,1,0.7,17.8,2.0,0,14,2.1,0,0,0,0.3,50,DEF,Defender
+125,Timo,Werner,0,1,5,90,1,11.7,4.8,79.0,0,10,9.6,0,0,0,47.3,95,FWD,Forward
+126,Tammy,Abraham,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,4.4,75,FWD,Forward
+127,Christian,Pulisic,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,10.7,85,MID,Midfielder
+128,Mason,Mount,0,0,2,90,1,28.6,13.6,9.0,0,9,5.1,0,0,0,8.3,70,MID,Midfielder
+129,Fikayo,Tomori,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.4,50,DEF,Defender
+130,Callum,Hudson-Odoi,0,0,1,10,0,1.3,0.8,0.0,0,3,0.2,0,0,0,0.5,60,MID,Midfielder
+131,Reece,James,1,1,14,90,1,30.3,76.8,11.0,3,44,11.8,0,0,0,6.2,50,DEF,Defender
+132,Billy,Gilmour,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.2,45,MID,Midfielder
+133,Benjamin,Chilwell,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,1.2,55,DEF,Defender
+134,Thiago,Thiago,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,2.7,55,DEF,Defender
+135,Kai,Havertz,0,0,2,79,1,14.8,8.4,0.0,0,8,2.3,0,0,0,12.5,85,MID,Midfielder
+136,Michy,Batshuayi,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,2.1,60,FWD,Forward
+137,Gary,Cahill,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,45,DEF,Defender
+138,Wayne,Hennessey,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.9,45,GK,Goalkeeper
+139,Mamadou,Sakho,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,45,DEF,Defender
+140,Vicente,Guaita,0,0,10,90,0,0.0,41.4,0.0,3,31,4.1,1,0,0,2.4,50,GK,Goalkeeper
+141,James,Tomkins,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,45,DEF,Defender
+142,James,McArthur,0,0,3,90,0,10.4,11.2,6.0,0,14,2.8,1,0,0,0.2,55,MID,Midfielder
+143,James,McCarthy,0,0,2,73,0,8.8,0.0,0.0,0,5,0.9,1,0,1,2.6,45,MID,Midfielder
+144,Christian,Benteke,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.2,55,FWD,Forward
+145,Cheikhou,KouyatÃ©,0,0,3,90,0,0.3,12.6,17.0,0,3,3.0,1,0,0,0.3,50,MID,Midfielder
+146,Joel,Ward,0,0,6,90,0,0.7,13.2,0.0,0,22,1.4,1,0,0,2.0,45,DEF,Defender
+147,Martin,Kelly,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,1.2,45,DEF,Defender
+148,Connor,Wickham,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,1.4,45,FWD,Forward
+149,Andros,Townsend,0,1,8,90,0,33.7,28.4,2.0,2,26,6.4,1,0,0,0.7,60,MID,Midfielder
+150,Luka,Milivojevic,0,0,1,16,0,28.3,6.0,0.0,0,6,3.4,0,0,0,0.9,60,MID,Midfielder
+151,Patrick,van Aanholt,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,55,DEF,Defender
+152,Jordan,Ayew,0,0,2,90,0,0.8,9.2,19.0,0,-7,2.9,1,0,0,6.4,60,FWD,Forward
+153,Wilfried,Zaha,1,0,8,90,0,1.4,31.6,21.0,0,18,5.4,1,0,0,8.9,70,MID,Midfielder
+154,Jeffrey,Schlupp,0,0,2,80,0,0.1,1.2,0.0,0,3,0.1,1,0,1,0.1,55,MID,Midfielder
+155,Max,Meyer,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,50,MID,Midfielder
+156,Jairo,Riedewald,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.2,45,MID,Midfielder
+157,Nathan,Ferguson,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,1.8,40,DEF,Defender
+158,Tyrick,Mitchell,0,0,6,90,0,0.7,17.6,0.0,0,23,1.8,1,0,0,15.9,40,DEF,Defender
+159,Brandon,Pierrick,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,45,MID,Midfielder
+160,Scott,Dann,0,0,7,90,0,0.4,15.6,8.0,1,24,2.4,1,0,0,1.0,45,DEF,Defender
+161,Eberechi,Eze,0,0,1,9,0,8.8,4.4,4.0,0,3,1.7,0,0,0,0.6,60,MID,Midfielder
+162,Sam,Woods,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.2,40,DEF,Defender
+163,Theo,Walcott,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.3,60,MID,Midfielder
+164,Fabian,Delph,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,50,MID,Midfielder
+165,Gylfi,Sigurdsson,0,0,1,22,0,0.3,2.4,0.0,0,3,0.3,0,0,0,1.6,70,MID,Midfielder
+166,Jonas,LÃ¶ssl,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.2,45,GK,Goalkeeper
+167,Seamus,Coleman,0,0,6,90,0,12.1,24.0,7.0,0,28,4.3,1,0,0,1.2,50,DEF,Defender
+168,Cenk,Tosun,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,60,FWD,Forward
+169,Bernard,AnÃ­cio Caldeira Duarte,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.2,60,MID,Midfielder
+170,Lucas,Digne,0,1,12,90,0,19.9,40.8,0.0,3,38,6.1,1,0,0,9.2,60,DEF,Defender
+171,Michael,Keane,0,0,6,90,0,0.1,25.8,0.0,0,29,2.6,1,0,0,1.9,50,DEF,Defender
+172,Jordan,Pickford,0,0,8,90,0,0.0,38.6,0.0,1,32,3.9,1,0,0,6.5,50,GK,Goalkeeper
+173,AndrÃ© Filipe,Tavares Gomes,0,0,3,67,0,3.3,3.8,20.0,0,11,2.7,1,0,0,0.4,55,MID,Midfielder
+174,Alex,Iwobi,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.2,60,MID,Midfielder
+175,Jonjoe,Kenny,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.2,45,DEF,Defender
+176,Jean-Philippe,Gbamin,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,50,MID,Midfielder
+177,Yerry,Mina,0,0,6,90,0,0.4,23.2,1.0,0,27,2.5,1,0,0,1.2,55,DEF,Defender
+178,Tom,Davies,0,0,1,1,0,0.0,2.0,0.0,0,4,0.2,0,0,0,0.1,55,MID,Midfielder
+179,Dominic,Calvert-Lewin,1,0,8,88,0,13.7,38.4,34.0,2,34,8.6,1,0,0,8.9,70,FWD,Forward
+180,Mason,Holgate,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,50,DEF,Defender
+181,Richarlison,de Andrade,0,0,2,90,0,13.8,26.2,67.0,0,17,10.7,1,0,0,10.3,80,FWD,Forward
+182,JoÃ£o,VirgÃ­nia,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,45,GK,Goalkeeper
+183,Anthony,Gordon,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.8,45,MID,Midfielder
+184,Moise,Kean,0,0,1,1,0,0.0,0.0,4.0,0,2,0.4,0,0,0,0.5,60,FWD,Forward
+185,Jarrad,Branthwaite,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,4.1,40,DEF,Defender
+186,Allan,Marques Loureiro,0,0,3,90,0,3.4,18.0,0.0,0,16,2.1,1,0,0,1.7,55,MID,Midfielder
+187,James,RodrÃ­guez,0,0,3,90,0,58.6,17.0,23.0,0,16,9.9,1,0,0,9.9,75,MID,Midfielder
+188,Abdoulaye,DoucourÃ©,0,0,3,90,0,44.6,20.4,4.0,0,20,6.9,1,0,0,2.6,55,MID,Midfielder
+189,Fabricio,Agosto RamÃ­rez,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,2.0,40,GK,Goalkeeper
+190,Kevin,McDonald,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,50,MID,Midfielder
+191,Maxime,Le Marchand,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.2,45,DEF,Defender
+192,Stefan,Johansen,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,50,MID,Midfielder
+193,Tom,Cairney,0,0,1,90,3,10.2,7.0,0.0,0,11,1.7,0,0,1,0.3,55,MID,Midfielder
+194,Tim,Ream,0,0,1,90,3,0.8,16.4,0.0,0,16,1.7,0,0,0,0.2,45,DEF,Defender
+195,Anthony,Knockaert,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.2,55,MID,Midfielder
+196,Michael,Hector,0,0,0,90,3,0.6,16.8,0.0,0,12,1.7,0,0,1,0.3,45,DEF,Defender
+197,Cyrus,Christie,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.2,45,DEF,Defender
+198,Neeskens,Kebano,0,0,2,62,3,2.7,1.0,18.0,0,7,2.2,0,0,0,0.2,50,MID,Midfielder
+199,Bobby,Decordova-Reid,0,0,1,15,0,0.4,0.0,2.0,0,4,0.2,0,0,0,0.1,55,FWD,Forward
+200,Joe,Bryan,0,0,1,90,3,4.3,10.6,0.0,0,12,1.5,0,0,0,1.0,50,DEF,Defender
+201,Marcus,Bettinelli,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,45,GK,Goalkeeper
+202,Aleksandar,MitroviÄ,0,0,1,27,0,0.3,3.0,7.0,0,3,1.0,0,0,0,22.3,60,FWD,Forward
+203,Alfie,Mawson,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,45,DEF,Defender
+204,Marek,RodÃ¡k,0,0,1,90,3,0.0,18.2,0.0,0,11,1.8,0,0,0,0.6,45,GK,Goalkeeper
+205,Ivan Ricardo,Neves Abreu Cavaleiro,0,0,2,90,3,26.4,7.4,0.0,0,10,3.4,0,0,0,0.2,55,MID,Midfielder
+206,Josh,Onomah,0,0,2,74,3,3.1,8.2,0.0,0,3,1.1,0,0,0,0.2,50,MID,Midfielder
+207,Jean MichaÃ«l,Seri,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,50,MID,Midfielder
+208,Aboubakar,Kamara,0,0,2,62,3,1.8,0.0,5.0,0,-2,0.2,0,0,0,0.1,50,MID,Midfielder
+209,AndrÃ©-Frank,Zambo Anguissa,0,0,1,27,0,11.8,14.4,0.0,0,4,2.6,0,0,0,0.8,45,MID,Midfielder
+210,Zeze Steven,Sessegnon,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,45,DEF,Defender
+211,Harrison,Reed,0,0,2,90,3,4.5,12.6,0.0,0,14,1.7,0,0,0,1.2,45,MID,Midfielder
+212,Antonee,Robinson,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,45,DEF,Defender
+213,Mario,Lemina,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,1.2,45,MID,Midfielder
+214,Alphonse,Areola,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,1.4,45,GK,Goalkeeper
+215,Kenny,Tete,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,45,DEF,Defender
+216,Denis,Odoi,0,0,1,90,3,2.6,11.4,7.0,0,12,2.1,0,0,0,0.0,45,DEF,Defender
+217,Wes,Morgan,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,45,DEF,Defender
+218,Kasper,Schmeichel,0,0,6,90,0,0.0,12.2,0.0,0,21,1.2,1,0,0,14.5,55,GK,Goalkeeper
+219,Christian,Fuchs,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,45,DEF,Defender
+220,Jonny,Evans,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,55,DEF,Defender
+221,Adrien,Silva,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.7,45,MID,Midfielder
+222,Marc,Albrighton,0,0,1,23,0,0.8,0.4,0.0,0,3,0.1,0,0,0,0.2,55,MID,Midfielder
+223,Matty,James,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.5,45,MID,Midfielder
+224,Danny,Ward,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.2,45,GK,Goalkeeper
+225,Jamie,Vardy,2,0,13,90,0,10.3,71.2,36.0,3,52,11.8,1,0,0,20.3,100,FWD,Forward
+226,Dennis,Praet,0,1,6,74,0,16.8,27.8,33.0,0,25,7.8,1,0,0,0.2,55,MID,Midfielder
+227,Ricardo Domingos,Barbosa Pereira,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,60,DEF,Defender
+228,Daniel,Amartey,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,1.6,40,DEF,Defender
+229,Youri,Tielemans,0,0,3,90,0,6.2,13.8,9.0,0,17,2.9,1,0,0,2.2,65,MID,Midfielder
+230,Ayoze,PÃ©rez,0,0,3,66,0,2.5,0.0,24.0,0,5,2.7,1,0,0,3.4,65,MID,Midfielder
+231,Demarai,Gray,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.2,55,MID,Midfielder
+232,James,Maddison,0,0,1,15,0,12.3,2.8,0.0,0,4,1.5,0,0,0,1.5,70,MID,Midfielder
+233,Kelechi,Iheanacho,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.7,60,FWD,Forward
+234,Hamza,Choudhury,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,50,MID,Midfielder
+235,Harvey,Barnes,0,0,3,90,0,18.3,18.0,66.0,0,8,10.2,1,0,0,4.0,70,MID,Midfielder
+236,Wilfred,Ndidi,0,0,3,90,0,1.2,27.2,0.0,0,15,2.8,1,0,0,2.3,50,MID,Midfielder
+237,Filip,Benkovic,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,45,DEF,Defender
+238,Ãaglar,SÃ¶yÃ¼ncÃ¼,0,0,6,90,0,1.4,15.6,6.0,0,29,2.3,1,0,0,13.5,55,DEF,Defender
+239,James,Justin,0,1,9,90,0,13.0,20.0,2.0,1,32,3.5,1,0,1,13.7,45,DEF,Defender
+240,Luke,Thomas,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.4,45,DEF,Defender
+241,Timothy,Castagne,1,0,14,90,0,3.0,45.8,35.0,2,38,8.4,1,0,0,2.7,55,DEF,Defender
+242,Nampalys,Mendy,0,0,3,90,0,3.5,9.8,0.0,0,11,1.3,1,0,0,0.8,45,MID,Midfielder
+243,Pablo,HernÃ¡ndez DomÃ­nguez,0,0,2,61,3,2.9,7.6,2.0,0,8,1.3,0,0,0,1.8,60,MID,Midfielder
+244,Francisco,Casilla CortÃ©s,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,2.4,45,GK,Goalkeeper
+245,Liam,Cooper,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.8,45,DEF,Defender
+246,Barry,Douglas,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,14.8,40,DEF,Defender
+247,Luke,Ayling,0,0,0,90,4,4.3,35.6,0.0,0,15,4.0,0,0,0,4.2,45,DEF,Defender
+248,Mateusz,Klich,1,0,9,80,3,4.8,54.8,23.0,2,33,8.3,0,0,0,2.1,55,MID,Midfielder
+249,Adam,Forshaw,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,50,MID,Midfielder
+250,Stuart,Dallas,0,1,3,90,4,1.3,23.2,2.0,0,21,2.7,0,0,0,4.9,45,DEF,Defender
+251,Ezgjan,Alioski,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.7,45,DEF,Defender
+252,Patrick,Bamford,1,0,7,61,3,0.5,40.0,27.0,1,28,6.8,0,0,0,7.9,56,FWD,Forward
+253,Jack,Harrison,1,0,7,90,4,6.5,43.6,19.0,0,23,6.9,0,0,0,2.0,55,MID,Midfielder
+254,Kalvin,Phillips,0,1,5,90,4,24.6,36.4,1.0,0,24,6.2,0,0,0,3.2,50,MID,Midfielder
+255,HÃ©lder Wander,Sousa de Azevedo e Costa,0,1,5,90,4,14.9,25.6,6.0,0,18,4.7,0,0,0,0.6,55,MID,Midfielder
+256,Tyler,Roberts,0,0,1,28,1,0.0,7.2,0.0,0,5,0.7,0,0,0,0.1,50,MID,Midfielder
+257,Jay-Roy,Grot,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,50,MID,Midfielder
+258,Kamil,Miazek,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,2.4,40,GK,Goalkeeper
+259,Ian Carlo,Poveda-Ocampo,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.3,45,MID,Midfielder
+260,Jamie,Shackleton,0,0,1,9,1,0.4,3.0,0.0,0,6,0.3,0,0,0,0.1,50,MID,Midfielder
+261,Pascal,Struijk,0,0,0,90,4,0.1,41.0,0.0,0,19,4.1,0,0,0,2.1,40,DEF,Defender
+262,Jordan,Stevens,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,1.6,45,MID,Midfielder
+263,Illan,Meslier,0,0,1,90,4,0.0,17.8,0.0,0,20,1.8,0,0,0,1.3,45,GK,Goalkeeper
+264,Leif,Davis,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,1.5,40,DEF,Defender
+265,Oliver,Casey,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.9,40,DEF,Defender
+266,Robin,Koch,0,0,0,90,4,0.2,23.4,18.0,0,14,4.2,0,0,0,0.6,45,DEF,Defender
+267,Rodrigo,Moreno,0,0,1,28,1,0.3,0.0,0.0,0,0,0.0,0,0,0,7.8,60,FWD,Forward
+268,James,Milner,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.2,55,MID,Midfielder
+269,Konstantinos,Tsimikas,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,50,DEF,Defender
+270,Georginio,Wijnaldum,0,0,2,90,3,23.0,15.8,35.0,0,9,7.4,0,0,0,2.1,55,MID,Midfielder
+271,Jordan,Henderson,0,0,2,65,2,2.0,14.0,7.0,0,19,2.3,0,0,0,2.9,55,MID,Midfielder
+272,AdriÃ¡n,San Miguel del Castillo,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.3,45,GK,Goalkeeper
+273,Joel,Matip,0,0,1,1,0,0.0,0.0,0.0,0,2,0.0,0,0,0,0.5,55,DEF,Defender
+274,Xherdan,Shaqiri,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,65,MID,Midfielder
+275,Alex,Oxlade-Chamberlain,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,65,MID,Midfielder
+276,Roberto,Firmino,0,0,1,90,3,7.2,5.8,38.0,0,10,5.1,0,0,1,4.0,95,FWD,Forward
+277,Virgil,van Dijk,1,0,7,90,3,0.8,37.6,37.0,0,19,7.5,0,0,0,27.9,65,DEF,Defender
+278,Sadio,ManÃ©,0,0,2,90,3,45.5,13.2,75.0,0,14,13.4,0,0,0,11.5,120,MID,Midfielder
+279,Alisson,Ramses Becker,0,0,1,90,3,0.0,3.8,0.0,0,9,0.4,0,0,0,12.3,60,GK,Goalkeeper
+280,Fabio Henrique,Tavares,0,1,4,32,1,1.0,4.2,2.0,0,13,0.7,0,0,0,1.5,55,MID,Midfielder
+281,Mohamed,Salah,3,0,20,90,3,50.1,117.2,161.0,3,69,32.8,0,0,0,35.4,120,MID,Midfielder
+282,Andrew,Robertson,0,1,4,90,3,19.6,23.4,4.0,0,20,4.7,0,0,0,13.1,70,DEF,Defender
+283,Divock,Origi,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,1.2,55,FWD,Forward
+284,Harry,Wilson,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,55,MID,Midfielder
+285,Takumi,Minamino,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.4,65,MID,Midfielder
+286,Trent,Alexander-Arnold,0,0,1,88,3,30.4,7.8,0.0,0,10,3.8,0,0,0,52.3,75,DEF,Defender
+287,Joseph,Gomez,0,0,1,90,3,1.0,19.2,0.0,0,13,2.0,0,0,0,4.8,55,DEF,Defender
+288,Naby,Keita,0,0,1,57,2,4.6,6.6,24.0,0,2,3.5,0,0,0,1.1,55,MID,Midfielder
+289,Rhian,Brewster,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,5.9,45,FWD,Forward
+290,Curtis,Jones,0,0,1,24,1,13.3,2.4,2.0,0,2,1.8,0,0,0,0.6,45,MID,Midfielder
+291,Neco,Williams,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,4.5,40,DEF,Defender
+292,Harvey,Elliott,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.2,45,MID,Midfielder
+293,Fernando,Luiz Rosa,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,1.2,55,DEF,Defender
+294,Claudio,Bravo,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,45,GK,Goalkeeper
+295,Sergio,AgÃ¼ero,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,4.5,105,FWD,Forward
+296,NicolÃ¡s,Otamendi,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.8,50,DEF,Defender
+297,Kyle,Walker,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,5.4,60,DEF,Defender
+298,Ilkay,GÃ¼ndogan,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.6,55,MID,Midfielder
+299,Kevin,De Bruyne,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,28.7,115,MID,Midfielder
+300,John,Stones,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.4,50,DEF,Defender
+301,Benjamin,Mendy,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,1.9,60,DEF,Defender
+302,Riyad,Mahrez,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,2.0,85,MID,Midfielder
+303,Raheem,Sterling,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,4.1,115,MID,Midfielder
+304,JoÃ£o Pedro Cavaco,Cancelo,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,1.0,55,DEF,Defender
+305,Ederson,Santana de Moraes,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,5.3,60,GK,Goalkeeper
+306,Nathan,AkÃ©,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,7.3,55,DEF,Defender
+307,Aymeric,Laporte,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,5.3,60,DEF,Defender
+308,Bernardo Mota,Veiga de Carvalho e Silva,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.8,75,MID,Midfielder
+309,Gabriel Fernando,de Jesus,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,1.8,95,FWD,Forward
+310,Oleksandr,Zinchenko,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.5,55,DEF,Defender
+311,Phil,Foden,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,4.1,65,MID,Midfielder
+312,Tommy,Doyle,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,45,MID,Midfielder
+313,Rodrigo,Hernandez,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.6,55,MID,Midfielder
+314,Ferran,Torres,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,1.3,70,MID,Midfielder
+315,Eric,Garcia,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.3,50,DEF,Defender
+316,Sergio,Romero,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.2,50,GK,Goalkeeper
+317,Juan,Mata,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,60,MID,Midfielder
+318,David,de Gea,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,4.4,55,GK,Goalkeeper
+319,Chris,Smalling,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.2,50,DEF,Defender
+320,Odion,Ighalo,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.3,65,FWD,Forward
+321,Marcos,Rojo,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,50,DEF,Defender
+322,Nemanja,Matic,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.3,50,MID,Midfielder
+323,Paul,Pogba,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,1.9,80,MID,Midfielder
+324,Phil,Jones,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,50,DEF,Defender
+325,Harry,Maguire,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,4.0,55,DEF,Defender
+326,Frederico,Rodrigues de Paula Santos,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.2,55,MID,Midfielder
+327,Luke,Shaw,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,1.4,50,DEF,Defender
+328,Jesse,Lingard,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.2,60,MID,Midfielder
+329,Bruno Miguel,Borges Fernandes,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,19.9,105,MID,Midfielder
+330,Anthony,Martial,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,13.6,90,FWD,Forward
+331,Andreas,Pereira,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,50,MID,Midfielder
+332,Dean,Henderson,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,3.0,55,GK,Goalkeeper
+333,Marcus,Rashford,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,5.4,95,MID,Midfielder
+334,Axel,Tuanzebe,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,45,DEF,Defender
+335,Victor,LindelÃ¶f,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,2.0,50,DEF,Defender
+336,Scott,McTominay,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.3,50,MID,Midfielder
+337,Eric,Bailly,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.3,50,DEF,Defender
+338,Daniel,James,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.4,65,MID,Midfielder
+339,Timothy,Fosu-Mensah,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,45,DEF,Defender
+340,Aaron,Wan-Bissaka,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,12.6,55,DEF,Defender
+341,JosÃ© Diogo,Dalot Teixeira,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,50,DEF,Defender
+342,Mason,Greenwood,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,8.0,75,MID,Midfielder
+343,Tahith,Chong,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,45,MID,Midfielder
+344,James,Garner,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,45,MID,Midfielder
+345,Brandon,Williams,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,1.8,45,DEF,Defender
+346,Teden,Mengi,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.7,40,DEF,Defender
+347,Donny,van de Beek,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,3.5,70,MID,Midfielder
+348,Andy,Carroll,0,0,2,87,0,14.0,7.0,48.0,0,3,6.9,1,0,0,0.5,55,FWD,Forward
+349,Jonjo,Shelvey,0,0,3,90,0,44.6,14.4,22.0,0,12,8.1,1,0,0,0.3,55,MID,Midfielder
+350,Matt,Ritchie,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,50,MID,Midfielder
+351,Federico,FernÃ¡ndez,0,0,6,90,0,0.1,26.0,2.0,0,27,2.8,1,0,0,1.6,50,DEF,Defender
+352,Ciaran,Clark,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,45,DEF,Defender
+353,Karl,Darlow,0,0,7,90,0,0.0,27.0,0.0,0,26,2.7,1,0,0,0.4,50,GK,Goalkeeper
+354,Martin,Dubravka,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.4,50,GK,Goalkeeper
+355,Florian,Lejeune,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,45,DEF,Defender
+356,Jamaal,Lascelles,0,0,6,90,0,0.3,21.8,0.0,0,21,2.2,1,0,0,4.0,45,DEF,Defender
+357,Dwight,Gayle,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,60,FWD,Forward
+358,Christian,Atsu,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,55,MID,Midfielder
+359,Paul,Dummett,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,45,DEF,Defender
+360,Javier,Manquillo,0,0,5,90,0,19.7,22.4,2.0,0,27,4.4,1,0,1,0.4,45,DEF,Defender
+361,Emil,Krafth,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,45,DEF,Defender
+362,Fabian,SchÃ¤r,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,50,DEF,Defender
+363,DeAndre,Yedlin,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.5,45,DEF,Defender
+364,Isaac,Hayden,0,0,2,90,0,2.0,12.8,0.0,0,12,1.5,1,0,1,0.1,50,MID,Midfielder
+365,Rolando,Aarons,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,50,MID,Midfielder
+366,Allan,Saint-Maximin,0,0,3,74,0,2.8,3.8,5.0,0,7,1.2,1,0,0,22.3,55,MID,Midfielder
+367,Miguel,AlmirÃ³n,0,1,4,5,0,11.4,17.4,20.0,0,13,4.9,0,0,0,1.1,60,MID,Midfielder
+368,Joelinton CÃ¡ssio,ApolinÃ¡rio de Lira,0,0,1,15,0,11.2,7.2,8.0,0,4,2.6,0,0,0,0.4,60,FWD,Forward
+369,Yoshinori,Muto,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.5,50,FWD,Forward
+370,Kelland,Watts,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.3,40,DEF,Defender
+371,Sean,Longstaff,0,0,1,2,0,0.3,1.0,0.0,0,3,0.1,0,0,0,0.1,50,MID,Midfielder
+372,Jeff,Hendrick,1,1,14,90,0,13.4,67.0,23.0,3,41,10.3,1,0,0,2.0,50,MID,Midfielder
+373,Matthew,Longstaff,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,50,MID,Midfielder
+374,Mark,Gillespie,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,45,GK,Goalkeeper
+375,Jacob,Murphy,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,50,MID,Midfielder
+376,Callum,Wilson,1,0,8,84,0,23.3,32.0,50.0,2,32,10.5,1,0,0,11.9,65,FWD,Forward
+377,Ryan,Fraser,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,1.0,60,MID,Midfielder
+378,Jamal,Lewis,0,0,7,90,0,39.8,19.4,0.0,1,31,5.9,1,0,0,2.5,45,DEF,Defender
+379,Billy,Sharp,0,0,2,90,2,3.0,1.4,23.0,0,-4,2.7,0,0,0,0.3,60,FWD,Forward
+380,David,McGoldrick,0,0,1,19,0,2.7,0.8,8.0,0,2,1.2,0,0,0,1.1,55,FWD,Forward
+381,Chris,Basham,0,0,1,70,2,1.5,11.4,2.0,0,14,1.5,0,0,0,2.2,50,DEF,Defender
+382,John,Fleck,0,0,2,90,2,36.0,10.2,14.0,0,10,6.0,0,0,0,0.6,60,MID,Midfielder
+383,Enda,Stevens,0,0,1,90,2,6.9,13.2,6.0,0,13,2.6,0,0,0,5.4,55,DEF,Defender
+384,Simon,Moore,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.3,45,GK,Goalkeeper
+385,Oliver,Norwood,0,0,2,75,2,21.8,9.8,0.0,0,13,3.2,0,0,0,0.6,50,MID,Midfielder
+386,Wes,Foderingham,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.2,45,GK,Goalkeeper
+387,George,Baldock,0,0,1,90,2,15.7,1.6,26.0,0,13,4.3,0,0,0,4.9,55,DEF,Defender
+388,Jack,Robinson,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.2,45,DEF,Defender
+389,John,Egan,0,0,0,90,2,0.8,8.8,6.0,0,4,1.6,0,0,1,15.8,50,DEF,Defender
+390,Jack,O'Connell,0,0,1,90,2,2.3,19.2,0.0,0,8,2.2,0,0,0,0.8,50,DEF,Defender
+391,John,Lundstram,0,0,2,90,2,32.3,10.0,2.0,0,15,4.4,0,0,0,12.3,55,MID,Midfielder
+392,Ben,Osborn,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,50,MID,Midfielder
+393,Oliver,McBurnie,0,0,1,90,2,15.3,12.0,41.0,0,3,6.8,0,0,1,0.8,60,FWD,Forward
+394,Lys,Mousset,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.5,60,FWD,Forward
+395,Sander,Berge,0,0,1,14,0,18.0,8.6,0.0,0,7,2.7,0,0,0,0.2,50,MID,Midfielder
+396,Oliver,Burke,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,1.1,45,MID,Midfielder
+397,Luke,Freeman,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,50,MID,Midfielder
+398,Aaron,Ramsdale,0,0,1,90,2,0.0,18.2,0.0,0,12,1.8,0,0,0,7.5,50,GK,Goalkeeper
+399,Ethan,Ampadu,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.9,45,DEF,Defender
+400,Jayden,Bogle,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,45,DEF,Defender
+401,Max,Lowe,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,45,DEF,Defender
+402,Phil,Jagielka,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,40,DEF,Defender
+403,Shane,Long,0,0,1,5,0,0.0,2.0,2.0,0,4,0.4,0,0,0,1.5,55,FWD,Forward
+404,Ryan,Bertrand,0,0,2,90,1,18.5,16.8,2.0,0,15,3.7,0,0,0,1.5,50,DEF,Defender
+405,Alex,McCarthy,0,0,2,90,1,0.0,22.6,0.0,0,17,2.3,0,0,0,23.2,45,GK,Goalkeeper
+406,Oriol,Romeu Vidal,0,0,2,90,1,4.2,18.6,0.0,0,13,2.3,0,0,0,4.5,45,MID,Midfielder
+407,Nathan,Redmond,0,0,2,90,1,7.2,7.2,23.0,0,5,3.7,0,0,0,0.9,65,MID,Midfielder
+408,Danny,Ings,0,0,2,90,1,11.2,8.6,60.0,0,1,8.0,0,0,0,22.7,85,FWD,Forward
+409,Jack,Stephens,0,0,2,90,1,1.1,18.4,17.0,0,12,3.7,0,0,0,0.5,50,DEF,Defender
+410,Stuart,Armstrong,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.3,55,MID,Midfielder
+411,Jannik,Vestergaard,0,0,1,45,0,10.4,17.6,4.0,0,19,3.2,0,0,0,0.6,45,DEF,Defender
+412,James,Ward-Prowse,0,0,2,90,1,17.4,6.6,4.0,0,15,2.8,0,0,0,4.4,60,MID,Midfielder
+413,Angus,Gunn,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.3,45,GK,Goalkeeper
+414,Sofiane,Boufal,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,55,MID,Midfielder
+415,Josh,Sims,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.2,45,MID,Midfielder
+416,Kyle,Walker-Peters,0,0,1,90,1,18.6,24.0,4.0,0,12,4.7,0,0,1,11.9,45,DEF,Defender
+417,Jan,Bednarek,0,0,1,45,1,1.3,8.8,0.0,0,11,1.0,0,0,0,3.1,45,DEF,Defender
+418,Che,Adams,0,0,2,84,1,13.1,4.4,21.0,0,3,3.9,0,0,0,4.5,60,FWD,Forward
+419,Yan,Valery,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,50,DEF,Defender
+420,William,Smallbone,0,0,2,76,1,3.2,2.2,0.0,0,4,0.5,0,0,0,0.5,45,MID,Midfielder
+421,Jake,Vokins,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,1.5,40,DEF,Defender
+422,Michael,Obafemi,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,2.6,50,FWD,Forward
+423,Moussa,Djenepo,0,0,1,13,0,0.3,3.4,0.0,0,4,0.4,0,0,0,0.1,55,MID,Midfielder
+424,Mohammed,Salisu,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.3,45,DEF,Defender
+425,Fraser,Forster,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.5,40,GK,Goalkeeper
+426,Nathan,Tella,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,45,MID,Midfielder
+427,Hugo,Lloris,0,0,3,90,1,0.0,20.0,0.0,0,15,2.0,0,0,0,5.2,55,GK,Goalkeeper
+428,Danny,Rose,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.4,50,DEF,Defender
+429,Moussa,Sissoko,0,0,1,45,1,4.3,2.4,0.0,0,4,0.7,0,0,0,0.6,50,MID,Midfielder
+430,Toby,Alderweireld,0,0,2,90,1,11.2,17.0,2.0,0,12,3.0,0,0,0,2.9,55,DEF,Defender
+431,Erik,Lamela,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.2,60,MID,Midfielder
+432,Harry,Kane,0,0,2,90,1,22.5,8.0,21.0,0,7,5.2,0,0,0,14.3,105,FWD,Forward
+433,Serge,Aurier,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,3.5,55,DEF,Defender
+434,Heung-Min,Son,0,0,2,90,1,46.8,14.0,35.0,0,10,9.6,0,0,0,25.9,90,MID,Midfielder
+435,Eric,Dier,0,0,2,90,1,0.7,17.4,0.0,0,13,1.8,0,0,0,1.7,50,DEF,Defender
+436,Lucas,Rodrigues Moura da Silva,0,0,2,90,1,5.8,2.8,35.0,0,-1,4.4,0,0,0,2.5,70,MID,Midfielder
+437,Paulo,Gazzaniga,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.4,45,GK,Goalkeeper
+438,Bamidele,Alli,0,0,1,45,0,11.9,8.4,21.0,0,3,4.1,0,0,0,3.5,80,MID,Midfielder
+439,Ben,Davies,0,0,2,90,1,35.5,20.2,36.0,0,15,9.2,0,0,0,2.6,50,DEF,Defender
+440,Pierre-Emile,HÃ¸jbjerg,0,0,1,90,1,5.0,15.4,0.0,0,8,2.0,0,0,1,1.1,50,MID,Midfielder
+441,Harry,Winks,0,0,1,59,1,2.3,2.0,0.0,0,8,0.4,0,0,0,0.2,55,MID,Midfielder
+442,Davinson,SÃ¡nchez,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,1.1,55,DEF,Defender
+443,Ryan,Sessegnon,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.3,50,DEF,Defender
+444,Steven,Bergwijn,0,0,1,30,0,3.3,0.4,2.0,0,2,0.6,0,0,0,1.3,75,MID,Midfielder
+445,Gedson,Carvalho Fernandes,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,50,MID,Midfielder
+446,Japhet,Tanganga,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,50,DEF,Defender
+447,Giovani,Lo Celso,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.8,70,MID,Midfielder
+448,Oliver,Skipp,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,45,MID,Midfielder
+449,Tanguy,Ndombele,0,0,1,14,0,1.3,3.8,0.0,0,3,0.5,0,0,0,0.2,60,MID,Midfielder
+450,Juan,Foyth,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.2,45,DEF,Defender
+451,Matt,Doherty,0,0,2,75,1,3.5,20.0,35.0,0,6,5.9,0,0,0,23.7,60,DEF,Defender
+452,Joe,Hart,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,1.0,45,GK,Goalkeeper
+453,Cameron,Carter-Vickers,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.4,40,DEF,Defender
+454,David,Button,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,5.1,40,GK,Goalkeeper
+455,Callum,Robinson,0,0,1,59,1,1.3,0.0,2.0,0,-3,0.1,0,0,0,0.2,55,FWD,Forward
+456,Kieran,Gibbs,0,0,1,90,3,1.7,6.4,0.0,0,12,0.8,0,0,0,0.8,45,DEF,Defender
+457,Hal,Robson-Kanu,0,0,1,30,2,0.1,2.0,1.0,0,3,0.3,0,0,0,0.4,55,FWD,Forward
+458,Jake,Livermore,0,0,2,90,3,11.3,8.8,0.0,0,11,2.0,0,0,0,0.2,50,MID,Midfielder
+459,Kamil,Grosicki,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,55,MID,Midfielder
+460,Matt,Phillips,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,55,MID,Midfielder
+461,Kyle,Bartley,0,0,1,90,3,0.3,13.8,0.0,0,11,1.4,0,0,0,0.2,45,DEF,Defender
+462,Romaine,Sawyers,0,0,2,68,1,1.6,0.0,0.0,0,4,0.2,0,0,0,0.1,50,MID,Midfielder
+463,Ahmed El-Sayed,Hegazy,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,1.2,45,DEF,Defender
+464,Charlie,Austin,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.9,55,FWD,Forward
+465,Kenneth,Zohore,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,50,FWD,Forward
+466,Sam,Johnstone,0,0,2,90,3,0.0,31.2,0.0,0,16,3.1,0,0,0,0.8,45,GK,Goalkeeper
+467,Conor,Townsend,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,45,DEF,Defender
+468,Oluwasemilogo Adesewo Ibidapo,Ajayi,0,0,0,90,3,0.5,0.2,0.0,0,2,0.1,0,0,1,0.3,50,DEF,Defender
+469,Jonathan,Leko,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,45,MID,Midfielder
+470,Kyle,Edwards,0,0,1,22,2,0.5,4.6,20.0,0,3,2.5,0,0,0,0.0,50,MID,Midfielder
+471,Darnell,Furlong,0,0,2,68,1,11.5,6.2,12.0,0,6,3.0,0,0,0,0.1,45,DEF,Defender
+472,Sam,Field,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,50,MID,Midfielder
+473,Dara,O'Shea,0,0,1,90,3,0.6,9.6,0.0,0,8,1.0,0,0,0,0.3,45,DEF,Defender
+474,Rekeem,Harper,0,0,1,21,2,1.8,1.8,0.0,0,3,0.4,0,0,0,0.6,45,MID,Midfielder
+475,Grady,Diangana,0,0,2,90,3,12.8,4.8,9.0,0,3,2.7,0,0,0,0.6,55,MID,Midfielder
+476,Matheus,Pereira,0,0,2,90,3,14.7,8.6,26.0,0,9,4.9,0,0,0,2.8,60,MID,Midfielder
+477,Cedric,Kipre,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,45,DEF,Defender
+478,Mark,Noble,0,0,2,66,1,12.2,4.4,0.0,0,8,1.7,0,0,0,2.2,50,MID,Midfielder
+479,Robert,Snodgrass,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.2,60,MID,Midfielder
+480,David,Martin,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,8.3,40,GK,Goalkeeper
+481,Darren,Randolph,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.3,45,GK,Goalkeeper
+482,Lukasz,Fabianski,0,0,1,90,2,0.0,5.0,0.0,0,9,0.5,0,0,0,1.7,50,GK,Goalkeeper
+483,Angelo,Ogbonna,0,0,1,90,2,1.1,30.0,6.0,0,14,3.7,0,0,0,0.4,50,DEF,Defender
+484,Roberto,Jimenez Gago,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,45,GK,Goalkeeper
+485,Jack,Wilshere,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.2,50,MID,Midfielder
+486,Aaron,Cresswell,0,0,1,90,2,11.2,10.4,0.0,0,11,2.2,0,0,0,1.1,50,DEF,Defender
+487,Andriy,Yarmolenko,0,0,0,23,1,1.6,2.8,26.0,0,-1,3.0,0,0,1,0.2,60,MID,Midfielder
+488,Michail,Antonio,0,0,2,90,2,11.8,5.4,63.0,0,0,8.0,0,0,0,9.7,65,FWD,Forward
+489,Ryan,Fredericks,0,0,0,90,2,62.3,19.4,2.0,0,14,8.4,0,0,1,0.6,45,DEF,Defender
+490,Manuel,Lanzini,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.1,65,MID,Midfielder
+491,Felipe Anderson,Pereira Gomes,0,0,1,1,0,0.3,2.4,0.0,0,5,0.3,0,0,0,0.5,65,MID,Midfielder
+492,SÃ©bastien,Haller,0,0,1,23,1,10.7,2.4,28.0,0,2,4.1,0,0,0,0.5,65,FWD,Forward
+493,Arthur,Masuaku,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.3,45,DEF,Defender
+494,FabiÃ¡n,Balbuena,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.2,45,DEF,Defender
+495,Jordan,Hugill,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,55,FWD,Forward
+496,Jarrod,Bowen,0,0,2,88,2,2.6,1.8,12.0,0,5,1.6,0,0,0,1.4,65,MID,Midfielder
+497,Albian,Ajeti,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,55,FWD,Forward
+498,Declan,Rice,0,0,2,90,2,14.5,21.6,8.0,0,15,4.4,0,0,0,4.9,50,MID,Midfielder
+499,Tomas,Soucek,0,0,2,90,2,21.6,12.4,46.0,0,7,8.0,0,0,0,5.7,50,MID,Midfielder
+500,Pablo,Fornals,0,0,2,66,1,1.9,4.6,18.0,0,8,2.5,0,0,0,0.1,65,MID,Midfielder
+501,Issa,Diop,0,0,1,90,2,0.9,24.6,0.0,0,15,2.6,0,0,0,1.6,45,DEF,Defender
+502,Ben,Johnson,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,2.7,40,DEF,Defender
+503,John,Ruddy,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.4,45,GK,Goalkeeper
+504,JoÃ£o Filipe Iria,Santos Moutinho,0,0,3,85,0,49.1,17.4,0.0,0,16,6.7,1,0,0,3.3,55,MID,Midfielder
+505,Rui Pedro,dos Santos PatrÃ­cio,0,0,6,90,0,0.0,11.2,0.0,0,23,1.1,1,0,0,6.4,55,GK,Goalkeeper
+506,Ryan,Bennett,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.5,45,DEF,Defender
+507,Willy,Boly,0,0,6,90,0,0.2,21.6,0.0,0,25,2.2,1,0,0,2.4,55,DEF,Defender
+508,Conor,Coady,0,0,8,90,0,0.0,22.0,0.0,2,29,2.2,1,0,0,9.4,50,DEF,Defender
+509,RaÃºl,JimÃ©nez,1,0,8,90,0,8.5,41.2,48.0,2,29,9.8,1,0,0,18.9,85,FWD,Forward
+510,Romain,SaÃ¯ss,1,0,15,90,0,0.2,63.4,38.0,3,34,10.2,1,0,0,3.6,50,DEF,Defender
+511,Jonathan,Castro Otto,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,55,DEF,Defender
+512,LÃ©o,Bonatini,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.4,50,FWD,Forward
+513,Leander,Dendoncker,0,0,3,90,0,15.4,16.4,4.0,0,11,3.6,1,0,0,2.3,50,MID,Midfielder
+514,Adama,TraorÃ©,0,0,3,90,0,1.8,12.8,17.0,0,6,3.2,1,0,0,19.9,65,MID,Midfielder
+515,RÃºben Diogo,da Silva Neves,0,0,1,14,0,10.3,5.6,0.0,0,4,1.6,0,0,0,2.7,55,MID,Midfielder
+516,Oskar,Buur,0,0,1,22,0,0.5,0.6,0.0,0,2,0.1,0,0,0,2.0,40,DEF,Defender
+517,Diogo,Jota,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,3.5,65,MID,Midfielder
+518,Daniel,Castelo Podence,0,1,6,75,0,18.3,25.8,0.0,0,23,4.4,1,0,0,0.4,55,MID,Midfielder
+519,Max,Kilman,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,1.9,40,DEF,Defender
+520,RÃºben GonÃ§alo,Silva Nascimento Vinagre,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,9.3,45,DEF,Defender
+521,Matija,Sarkic,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.2,45,GK,Goalkeeper
+522,Morgan,Gibbs-White,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,50,MID,Midfielder
+523,Pedro,Lomba Neto,0,1,6,67,0,15.8,19.8,4.0,0,18,4.0,1,0,0,0.3,55,MID,Midfielder
+524,Bruno AndrÃ©,Cavaco Jordao,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.7,45,MID,Midfielder
+525,Leonardo,Campana,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.4,50,FWD,Forward
+526,Fabio,Silva,0,0,0,0,0,0.0,0.0,0.0,0,0,0.0,0,0,0,1.4,55,FWD,Forward
+527,Fernando,MarÃ§al,0,0,5,90,0,1.5,15.2,0.0,0,21,1.7,1,0,1,0.3,50,DEF,Defender
+528,Vitor,Ferreira,0,0,1,4,0,0.8,1.2,0.0,0,4,0.2,0,0,0,0.0,50,MID,Midfielder
