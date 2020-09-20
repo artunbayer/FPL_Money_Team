@@ -1,6 +1,5 @@
 import solver
 import csv
-import player_text_data_processor
 
 
 POSITION_MAP = {
@@ -22,6 +21,7 @@ def main():
     max_cost = 1000
     player_scores, player_costs, all_player_names = read_in_data_csv("2018-2019_data.csv")
 
+    print("====== ROSTER ======")
     team = solver.solve(player_scores, player_costs, max_cost)
     for member in team:
         print(all_player_names[member], team[member])
@@ -32,14 +32,8 @@ def main():
         scores[key] = team[key][0]
         roles[key] = INV_POSITION_MAP[team[key][1]]
 
-        #scores[all_player_names[key]] = team[key][0]
-        #roles[all_player_names[key]] = INV_POSITION_MAP[team[key][1]]
-
     print()
-    print("Member roles:", roles)
-    print("Member scores:", scores)
-
-
+    print("====== Team to Play ======")
     team = solver.choose_gameweek_team(roles, scores)
     for member in team:
         print(all_player_names[member], team[member])
