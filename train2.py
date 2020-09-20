@@ -12,16 +12,6 @@ import tensorflow.compat.v1 as tf
 tf.compat.v1.disable_eager_execution()
 import matplotlib.pyplot as plt
 
-###
-###  PREPROCESS THE DATA
-###########################
-#x, y = data.preprocces_data()
-###########################
-
-
-
-
-
 
 # Set random seed
 seed = 123
@@ -36,6 +26,8 @@ flags.DEFINE_integer('epochs', 500, 'Number of epochs to train.')
 flags.DEFINE_integer('hidden1', 128, 'Number of units in hidden layer 1.')
 flags.DEFINE_float('dropout', 0.0, 'Dropout rate (1 - keep probability).')
 flags.DEFINE_float('weight_decay', 0.0, 'Weight for L2 loss on embedding matrix.')
+flags.DEFINE_string('save_name', './mymodel.ckpt', 'Path for saving model')
+
 #flags.DEFINE_integer('early_stopping', 10, 'Tolerance for early stopping (# of epochs).')
 
 # Load data
@@ -87,6 +79,7 @@ def evaluate(features, labels, mask, placeholders):
 
 # Init variables
 sess.run(tf.global_variables_initializer())
+saver = tf.train.Saver()
 
 cost_val = []
 t_0 = time.time()
@@ -116,6 +109,8 @@ for epoch in range(FLAGS.epochs):
         print("Early stopping...")
         break
 
+saver.save(sess, FLAGS.save_name)
+
 print("Optimization Finished!")
 
 # Testing
@@ -131,12 +126,6 @@ print('Total time:', time.time() - t_0)
 feed_dict = utils.construct_feed_dict(test_inputs, y_test, test_mask, placeholders)
 feed_dict.update({placeholders['dropout']: FLAGS.dropout})
 prediction = sess.run(model.predict(), feed_dict=feed_dict)
-
-
-#vector1 = np.resize(y[test_indexes], (1, test_indexes.size))
-#vector2 = np.resize(prediction[test_indexes], (1, test_indexes.size))
-#vector3 = vector2 - vector1
-#print(np.dot(vector3, vector3.transpose())/test_indexes.size)
 
 print(np.hstack((test_data_values, prediction)))
 
