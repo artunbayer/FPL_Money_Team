@@ -49,8 +49,6 @@ def solve(player_scores, player_costs, max_price):
             for j in range(num_position_types):
                 if x[i, j].solution_value() > 0.5:
                     team[i] = (player_scores[i][j], j)
-                    #print('Worker %d assigned to task %d.  Score = %d' %
-                    #      (i, j, player_scores[i][j]))
 
     return team
 
