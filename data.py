@@ -81,6 +81,112 @@ def preprocces_data():
     return features, np.resize(y_actual, (y_actual.size, 1)), train_indexes, test_indexes, val_indexes
 
 
+def load_big_data():
+
+    df = pd.read_csv('stacked_total.csv', delimiter=';', encoding='utf-8')
+
+    df_by_years = []
+
+    for i in range(1, 5):
+
+        df_by_years.append(df.loc[df['year'] == i])
+
+
+    # training data
+    training_data = []
+    training_data_values = []
+    test_data = []
+    test_data_values = []
+    training_inputs = []
+    test_inputs = []
+
+    for df in df_by_years:
+
+        test = df.sample(frac=0.25)
+
+        training = df.merge(test, how='outer', indicator=True).loc[lambda x: x['_merge'] == 'left_only']
+
+        new_indexes = [column for column in
+                       training.columns.difference(['_merge'], sort=False)]
+
+        training = training[new_indexes]
+
+        training_data.append(training)
+        test_data.append(test)
+
+
+
+    for i in range(len(training_data)):
+
+        df_year = df_by_years[i]
+        training = training_data[i]
+        test = test_data[i]
+
+        weeks = None
+
+        if i == 3:
+            weeks = 29
+
+        else:
+            weeks = 38
+
+        check = df_year.loc[df_year['week'] == weeks][['first_name','total_points','second_name']]
+
+        answers1 = training.merge(check, on=('second_name', 'first_name'), how='inner')
+        answers2 = test.merge(check, on=('second_name', 'first_name'), how='inner')
+        training = answers1
+        test = answers2
+        new_indexes = [column for column in answers1.columns.difference(['first_name', 'second_name', 'year',
+                                                                                 'Unnamed: 0', '_merge',
+                                                                                 'total_points_y']
+                                                                                , sort=False)]
+        training_data_values.append(np.resize(answers1['total_points_y'].to_numpy(),(answers1['total_points_y'].to_numpy().size,1)))
+        test_data_values.append(np.resize(answers2['total_points_y'].to_numpy(), (answers2['total_points_y'].to_numpy().size,1)))
+
+        test_inputs.append(test[new_indexes].to_numpy())
+        training_inputs.append(training[new_indexes].to_numpy())
+
+
+    training_inputs = np.concatenate(training_inputs,axis=0)
+    training_data_values = np.concatenate(training_data_values,axis=0)
+    test_inputs = np.concatenate(test_inputs,axis=0)
+    test_data_values = np.concatenate(test_data_values, axis=0)
+
+
+
+    return  training_inputs.astype(dtype=float), training_data_values.astype(dtype=float), test_inputs, test_data_values
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

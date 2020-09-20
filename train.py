@@ -33,8 +33,8 @@ flags = tf.app.flags
 FLAGS = flags.FLAGS
 flags.DEFINE_float('learning_rate', 0.01, 'Initial learning rate.')
 flags.DEFINE_integer('epochs', 20000, 'Number of epochs to train.')
-flags.DEFINE_integer('hidden1', 64, 'Number of units in hidden layer 1.')
-flags.DEFINE_float('dropout', 0.5, 'Dropout rate (1 - keep probability).')
+flags.DEFINE_integer('hidden1', 32, 'Number of units in hidden layer 1.')
+flags.DEFINE_float('dropout', 0.0, 'Dropout rate (1 - keep probability).')
 flags.DEFINE_float('weight_decay', 0.0, 'Weight for L2 loss on embedding matrix.')
 #flags.DEFINE_integer('early_stopping', 10, 'Tolerance for early stopping (# of epochs).')
 
@@ -43,7 +43,7 @@ features, y, train_indexes, test_indexes, val_indexes = data.preprocces_data()
 
 train_mask = utils.sample_mask(train_indexes, y.shape[0])
 test_mask = utils.sample_mask(test_indexes, y.shape[0])
-val_mask = utils.sample_mask(val_indexes,y.shape[0])
+val_mask = utils.sample_mask(val_indexes, y.shape[0])
 
 
 y_train = np.zeros(y.shape)
@@ -67,7 +67,7 @@ placeholders = {
 }
 
 # Create model
-model = model_func(placeholders, 2, input_dim=features.shape[1])
+model = model_func(placeholders, 1, input_dim=features.shape[1])
 
 # Initialize session
 sess = tf.Session()
@@ -107,7 +107,7 @@ for epoch in range(FLAGS.epochs):
            "val_acc=", "{:.5f}".format(acc),
           "train_acc=", "{:.5f}".format(outs[2]), "time=", "{:.5f}".format(time.time() - t))
 
-    if epoch > 9000 and cost_val[-1] > np.mean(cost_val[-(1000+1):-1]):
+    if epoch > 5000 and cost_val[-1] > np.mean(cost_val[-(1000+1):-1]):
         print("Early stopping...")
         break
 
@@ -125,4 +125,9 @@ feed_dict = utils.construct_feed_dict(features, y_test, test_indexes, placeholde
 feed_dict.update({placeholders['dropout']: FLAGS.dropout})
 prediction = sess.run(model.predict(), feed_dict=feed_dict)
 
-print(np.hstack((prediction[test_indexes], y[test_indexes])))
+
+vector1 = np.resize(y[test_indexes], (1, test_indexes.size))
+vector2 = np.resize(prediction[test_indexes], (1, test_indexes.size))
+vector3 = vector2 - vector1
+print(np.dot(vector3, vector3.transpose())/test_indexes.size)
+print(np.hstack((y[test_indexes], prediction[test_indexes])))

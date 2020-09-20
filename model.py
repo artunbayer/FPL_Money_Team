@@ -7,6 +7,8 @@ import metrics
 flags = tf.app.flags
 FLAGS = flags.FLAGS
 
+
+
 class fantasyPL:
     def __init__(self, placeholders,layers, input_dim, **kwargs):
 
