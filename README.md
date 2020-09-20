@@ -4,3 +4,5 @@ Money Team is an AI based Fantasy Premier League Soccer team manager. It uses da
 
 The optimizer uses the data from previous years to come up with the best team within the budget and player constraints to enter the season. It then uses the Neural Network's predictions about how each player might perform to make a player transfer if it is feasible. 
 
+train2.py contains the code to train the Neural Network.
+
